@@ -1,0 +1,26 @@
+ .navbar {
+            background-color: #C71585
+        }
+ .btn-group{
+ 	width: 100%;
+ }
+.dropdown{
+	margin-top: 2%;
+}
+.btn{
+	width: 5%;
+	padding: 0;
+	margin-right: 1%;
+	margin-bottom: 2px;
+	border-radius: 15%;
+
+}
+.escolha7dezenas{
+	color: white;
+	text-align: center;
+	background-color: #C71585;
+}
+
+.trevo{
+	width: 8%;
+}
